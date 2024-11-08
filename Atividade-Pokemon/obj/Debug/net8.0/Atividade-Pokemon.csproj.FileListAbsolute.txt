@@ -1,0 +1,15 @@
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\bin\Debug\net8.0\Atividade-Pokemon.exe
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\bin\Debug\net8.0\Atividade-Pokemon.deps.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\bin\Debug\net8.0\Atividade-Pokemon.runtimeconfig.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\bin\Debug\net8.0\Atividade-Pokemon.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\bin\Debug\net8.0\Atividade-Pokemon.pdb
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\Atividade-Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\Atividade-Pokemon.AssemblyInfoInputs.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\Atividade-Pokemon.AssemblyInfo.cs
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\Atividade-Pokemon.csproj.CoreCompileInputs.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\Atividade-Pokemon.sourcelink.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\Atividade-Pokemon.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\refint\Atividade-Pokemon.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\Atividade-Pokemon.pdb
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\Atividade-Pokemon.genruntimeconfig.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Atividade-Pokemon\obj\Debug\net8.0\ref\Atividade-Pokemon.dll

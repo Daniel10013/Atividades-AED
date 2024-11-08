@@ -1,0 +1,15 @@
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\bin\Debug\net8.0\atividade-1.exe
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\bin\Debug\net8.0\atividade-1.deps.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\bin\Debug\net8.0\atividade-1.runtimeconfig.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\bin\Debug\net8.0\atividade-1.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\bin\Debug\net8.0\atividade-1.pdb
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\atividade-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\atividade-1.AssemblyInfoInputs.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\atividade-1.AssemblyInfo.cs
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\atividade-1.csproj.CoreCompileInputs.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\atividade-1.sourcelink.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\atividade-1.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\refint\atividade-1.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\atividade-1.pdb
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\atividade-1.genruntimeconfig.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-2\atividade-1\obj\Debug\net8.0\ref\atividade-1.dll

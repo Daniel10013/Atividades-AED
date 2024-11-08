@@ -1,0 +1,15 @@
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\bin\Debug\net8.0\Competicao.exe
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\bin\Debug\net8.0\Competicao.deps.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\bin\Debug\net8.0\Competicao.runtimeconfig.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\bin\Debug\net8.0\Competicao.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\bin\Debug\net8.0\Competicao.pdb
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\Competicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\Competicao.AssemblyInfoInputs.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\Competicao.AssemblyInfo.cs
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\Competicao.csproj.CoreCompileInputs.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\Competicao.sourcelink.json
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\Competicao.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\refint\Competicao.dll
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\Competicao.pdb
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\Competicao.genruntimeconfig.cache
+C:\Dani\Faculdade\Segundo Periodo\Atividades-AED\Lista-1\Competicao\obj\Debug\net8.0\ref\Competicao.dll
